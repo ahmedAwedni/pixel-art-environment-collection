@@ -12,12 +12,12 @@ This repository contains a series of standalone pixel art environment illustrati
 
 ## 🖼 Included Environments
 
-- Forest Path  
+- forest river  
 - Coastal Cliff  
 - Small Pond  
 - Rolling Hills  
 - Rocky Valley  
-- Desert Oasis  
+- Desert path  
 
 ## 🎯 Purpose
 
